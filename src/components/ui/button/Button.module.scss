@@ -1,0 +1,16 @@
+.button {
+    font-size: 16px;
+  line-height: 20px;
+  padding: 6.5px 60px;
+}
+
+.primary {
+  border: 1px solid #27749C ;
+  color: #27749C;
+  transition: all ease-in-out 100ms;
+  &:hover{
+    background-color: #27749C ;
+    color: #fff;
+  }
+}
+
